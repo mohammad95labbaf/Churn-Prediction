@@ -5,12 +5,12 @@ from classification import define_classifiers, evaluate_classifier, print_classi
 from plot_confusion_matrix import plot_confusion_matrices
 import argparse
 
-"""
-Main entry point for the project.
+# """
+# Main entry point for the project.
 
-This script loads the dataset, preprocesses the data, splits the data into training and testing sets,
-and evaluates the performance of various classifiers.
-"""
+# This script loads the dataset, preprocesses the data, splits the data into training and testing sets,
+# and evaluates the performance of various classifiers.
+# """
 
 def main():
     parser = argparse.ArgumentParser()
