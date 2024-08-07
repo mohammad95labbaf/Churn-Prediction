@@ -1,0 +1,20 @@
+# config.yaml
+
+# Data settings
+data:
+  file_path: dataset\dataset.csv
+
+# Model settings
+model:
+  test_size: 0.2
+  random_state: 42
+
+# Classifier settings
+classifiers:
+  - Decision Tree
+  - KNN
+  - SVM
+  - Voting
+  - Random Forest
+  - Bagging
+  - AdaBoost
