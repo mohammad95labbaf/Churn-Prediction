@@ -15,5 +15,4 @@ def plot_confusion_matrix(cm, classifier_name):
 def plot_confusion_matrices(classifier_name, accuracy, cm, cr):
     plot_confusion_matrix(cm, classifier_name)
     print(f'Accuracy: {accuracy:.3f}')
-    print('Classification Report:')
     print(cr)
