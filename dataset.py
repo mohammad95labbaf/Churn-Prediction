@@ -4,6 +4,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, MinMaxScaler, RobustScaler, Normalizer
 
+# Expectation Error
 def load_dataset(file_path):
     try:
         return pd.read_csv(file_path)

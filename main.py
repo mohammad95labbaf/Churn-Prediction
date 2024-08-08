@@ -66,6 +66,7 @@ if __name__ == "__main__":
 ### Example Usage
 # python main.py -c KNN, -t 0.5, -p robust-scaling
 # python main.py
-# python main.py -c RandomForest, -t 0.2, -standardization
+# python main.py -c RandomForest, -t 0.2, -p standardization
+# python main.py -c Voting, -t 0.25, -p AdaBoost
 
 
