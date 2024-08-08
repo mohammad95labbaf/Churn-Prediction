@@ -65,4 +65,3 @@ if __name__ == "__main__":
 
 # Example Usage
 # python main.py -c KNN, -t 0.5, -p robust-scaling
-# python main.py
