@@ -1,7 +1,7 @@
 ---
 # Data settings
 data:
-  file_path: dataset\dataset.csv
+  file_path: dataset/dataset.csv
 
 # Model settings
 model:
