@@ -1,5 +1,3 @@
-Here's an updated version of the README file with a more detailed overview:
-
 **Churn Prediction Project**
 ==========================
 
