@@ -44,19 +44,3 @@ This project aims to predict customer churn using machine learning algorithms. T
 * `classification.py`: classification module
 * `plot_confusion_matrix.py`: confusion matrix plotting module
 * `requirements.txt`: required libraries for the project
-
-**Contributing**
---------------
-
-Contributions are welcome Please submit a pull request with your changes.
-
-**License**
--------
-
-This project is licensed under the MIT License. See `LICENSE` for details.
-
-**Acknowledgments**
-------------------
-
-* [Your Name] for creating and maintaining the project
-* [Other contributors] for their contributions to the project
