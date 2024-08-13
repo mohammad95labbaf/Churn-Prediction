@@ -1,5 +1,4 @@
-# config.yaml
-
+---
 # Data settings
 data:
   file_path: dataset\dataset.csv
