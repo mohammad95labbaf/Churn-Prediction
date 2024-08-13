@@ -1,5 +1,3 @@
-Here's a sample README file for your project:
-
 **Churn Prediction Project**
 ==========================
 
